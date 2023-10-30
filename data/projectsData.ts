@@ -1,19 +1,21 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Bestari Digital Solutions',
+    description: `
+    Bestari Digital Solutions is a digital marketing agency based in Malaysia that 
+    specializes in user experience (UX) design. They create exceptional custom websites, 
+    e-commerce websites, and web apps that your customers love to use.`,
+    imgSrc: '/static/images/projects/bestari.png',
+    href: 'https://bestari.io',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Majiska Digital Marketing',
+    description: `
+    Majiska Digital Marketing is a digital marketing agency based in Malaysia that specializes 
+    in data-driven digital marketing actions. They help businesses achieve predictable and replicable 
+    business growth through a variety of digital marketing services.`,
+    imgSrc: '/static/images/projects/majiska.png',
+    href: 'https://majiska.com.my',
   },
 ]
 
